@@ -1,34 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![s1](https://user-images.githubusercontent.com/78929050/191084015-627ebcb6-fdc6-4c48-b085-eb2530d61ca2.png)
+![s2](https://user-images.githubusercontent.com/78929050/191084032-1a461c88-8f59-4b1c-87f1-d87b34d325e8.png)
+![s3](https://user-images.githubusercontent.com/78929050/191084044-94b67785-39b8-4391-97a6-a8c9634cc1a6.png)
+![s4](https://user-images.githubusercontent.com/78929050/191084066-24670059-69f3-45a6-a389-43f162104c8f.png)
+![s5](https://user-images.githubusercontent.com/78929050/191084076-255b0b0a-0b5d-4d44-9d82-93d7430cf5b6.png)
+![s6](https://user-images.githubusercontent.com/78929050/191084096-940f9726-f06f-460f-acbe-30530a62c4a7.png)
+![s7](https://user-images.githubusercontent.com/78929050/191084111-099b7caf-0f1c-49fb-b480-08f2cc3aa2e3.png)
+![s8](https://user-images.githubusercontent.com/78929050/191084142-0966355c-77e5-4788-a11b-265871792535.png)
+![s9](https://user-images.githubusercontent.com/78929050/191084153-fa664c70-0ad5-4334-b115-f08a82a9f89f.png)
